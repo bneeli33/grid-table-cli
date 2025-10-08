@@ -1,0 +1,17 @@
+{
+  "name": "grid-table-cli",
+  "version": "1.0.0",
+  "type": "module",
+  "bin": {
+    "gridtable": "./bin/cli.js"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "bneeli33",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^14.0.1"
+  }
+}
